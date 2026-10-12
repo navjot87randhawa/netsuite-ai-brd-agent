@@ -1,4 +1,4 @@
-# NetSuite AI Implementation Accelerator (Agent 2 Core)
+# NetSuite AI Implementation Accelerator (Agent 2 Core) Open in Colab
 
 An open-source, AI-powered documentation pipeline designed to accelerate NetSuite ERP manufacturing implementations by converting raw discovery transcripts into professional Business Requirement Documents (BRDs).
 
