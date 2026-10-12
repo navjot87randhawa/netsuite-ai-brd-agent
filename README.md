@@ -1,4 +1,4 @@
-# NetSuite AI Implementation Accelerator (Agent 2 Core) Open in Colab
+# NetSuite AI Implementation Accelerator (Agent 2 Core)
 
 An open-source, AI-powered documentation pipeline designed to accelerate NetSuite ERP manufacturing implementations by converting raw discovery transcripts into professional Business Requirement Documents (BRDs).
 
@@ -28,15 +28,11 @@ Agent 2 ingests raw text transcripts from client discovery sessions and maps the
 ---
 
 ## ⚙️ How to Run Agent 2 (Google Colab)
+1. Open a new notebook in **[Google Colab](https://colab.research.google.com/)**.
+2. Copy and run the code from `agent2_brd_agent.py`.
+3. When prompted, upload your discovery session text transcript file (`.txt`).
+4. The agent will parse the text and output a client-specific NetSuite BRD.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/navjot87randhawa/netsuite-ai-brd-agent/blob/main/agent2_brd_agent.py)
-
-# NetSuite AI Implementation Accelerator (Agent 2 Core)
-
-An open-source, AI-powered documentation pipeline designed to accelerate NetSuite ERP manufacturing implementations by converting raw discovery transcripts into professional Business Requirement Documents (BRDs).
-
-## 🚀 Project Overview
-...
 ---
 
 ## 💻 Tech Stack
