@@ -28,8 +28,11 @@ Agent 2 ingests raw text transcripts from client discovery sessions and maps the
 ---
 
 ## ⚙️ How to Run Agent 2 (Google Colab)
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/navjot87randhawa/netsuite-ai-brd-agent/blob/main/agent2_brd_agent.py)
-2. Copy and run the code from `agent2_brd_agent.py`.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/navjot87randhawa/netsuite-ai-brd-agent/blob/main/agent2_brd_agent.py)
+
+1. Click the badge above to open the file in Google Colab.
+2. Run the code block in Colab.
 3. When prompted, upload your discovery session text transcript file (`.txt`).
 4. The agent will parse the text and output a client-specific NetSuite BRD.
 
